@@ -9,14 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.diego</groupId>
-	<artifactId>hr-api-gatewat-zuul</artifactId>
+	<artifactId>hr-api-gateway-zuul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-api-gatewat-zuul</name>
+	<name>hr-api-gateway-zuul</name>
 	<description>Zuul Server</description>
 	
 	<properties>
 		<java.version>11</java.version>
-		<spring-cloud.version>2023.0.0</spring-cloud.version>
+		<spring-cloud.version>Hoxton.SR8</spring-cloud.version>
 	</properties>
 	
 	<dependencies>
